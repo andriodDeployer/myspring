@@ -9,4 +9,5 @@ package context;/**
 
 public class Context {
     public String ab;
+    public String contxtname;
 }
