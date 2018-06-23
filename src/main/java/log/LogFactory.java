@@ -8,4 +8,8 @@ package log;/**
 
 
 public class LogFactory {
+
+    public void getLogFactory(){
+        System.out.println("logfactory");
+    }
 }
