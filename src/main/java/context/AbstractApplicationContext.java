@@ -9,4 +9,5 @@ package context;/**
 
 public class AbstractApplicationContext {
     public String factory;
+    public String name;
 }
