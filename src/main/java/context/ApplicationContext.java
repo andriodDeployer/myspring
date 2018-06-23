@@ -8,4 +8,5 @@ package context;/**
 
 
 public class ApplicationContext {
+    private String name;
 }
