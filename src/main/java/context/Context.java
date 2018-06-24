@@ -14,4 +14,5 @@ public class Context {
     public String localversion;
     public String addMaster;
     public int name;
+    public int age;
 }
