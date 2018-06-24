@@ -13,4 +13,5 @@ public class Context {
     public String github_1;
     public String localversion;
     public String addMaster;
+    public int name;
 }
