@@ -16,4 +16,5 @@ public class Context {
     public int name;
     public int age;
     public int ag1;
+    public int ert;
 }
